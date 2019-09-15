@@ -1,0 +1,3 @@
+# crontab -e
+MAILTO=yuchengjiang@JJM.local;mendieta_bj@hotmail.com
+27 23 * * * /usr/local/bin/python3 ~/workspace/booking-automation-selenium/main.py
